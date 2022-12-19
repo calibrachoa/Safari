@@ -11,3 +11,4 @@ This repository will serve as an introduction to git and team project versioning
 
 ### Animal Types
 - `Lion.cs`
+- `Impala.cs`
