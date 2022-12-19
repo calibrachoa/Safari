@@ -20,6 +20,9 @@ namespace Safari_Game
             _animals.Add(new Cheetah("Gertrude", "wwewewe!", 2, 190, 89));
             _animals.Add(new Cheetah("Pierrot", "yeeeeeeee!", 4, 167, 120));
             _animals.Add(new Cheetah("Coco", "ghghghgg!", 9, 123, 111));
+            _animals.Add(new Impala("Ingo", "auehuaheuaheuhae!", 15, 128, true, true));
+            _animals.Add(new Impala("Ingo II", "auehuaheuaheuhae!", 15, 128, true, true));
+            _animals.Add(new Impala("Ingo III", "auehuaheuaheuhae!", 15, 128, true, true));
         }
 
         /// <summary>
