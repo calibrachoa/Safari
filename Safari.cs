@@ -17,6 +17,9 @@ namespace Safari_Game
         {
             _animals.Add(new Lion("Pollux", "roaaaaaaaarrrrrrrrrrrr!", 16, 270, Lion.LionHairChoices.White));
             _animals.Add(new Lion("Charlot", "grrrrrrrrrr!", 14, 316, Lion.LionHairChoices.Golden));
+            _animals.Add(new Cheetah("Gertrude", "wwewewe!", 2, 190, 89));
+            _animals.Add(new Cheetah("Pierrot", "yeeeeeeee!", 4, 167, 120));
+            _animals.Add(new Cheetah("Coco", "ghghghgg!", 9, 123, 111));
         }
 
         /// <summary>
