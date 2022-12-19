@@ -21,6 +21,12 @@ namespace Safari_Game
             _animals.Add(new Baboon("Huey", "Woop Woop!", 14, 316, 20));
             _animals.Add(new Baboon("Dewey", "AAAHHHAHAHAHAHA!", 16, 250, 4));
             _animals.Add(new Baboon("Louie", "Where is my uncle?!?", 15, 115, 25));
+            _animals.Add(new Cheetah("Gertrude", "wwewewe!", 2, 190, 89));
+            _animals.Add(new Cheetah("Pierrot", "yeeeeeeee!", 4, 167, 120));
+            _animals.Add(new Cheetah("Coco", "ghghghgg!", 9, 123, 111));
+            _animals.Add(new Impala("Ingo", "auehuaheuaheuhae!", 15, 128, true, true));
+            _animals.Add(new Impala("Ingo II", "auehuaheuaheuhae!", 15, 128, true, true));
+            _animals.Add(new Impala("Ingo III", "auehuaheuaheuhae!", 15, 128, true, true));
         }
 
         /// <summary>
