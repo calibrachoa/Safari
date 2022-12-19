@@ -16,7 +16,6 @@ namespace Safari_Game
         {
             _hasHorns = hasHorns;
             _runsInZigZag = runsInZigZag;
-            _sound = sound;
         }
 
         public override void Display()
@@ -30,9 +29,9 @@ namespace Safari_Game
 
         public override void Parade()
         {
-            Console.WriteLine("The Impala is running fast in zigzag while the truck passes by.");
+            Console.WriteLine("The impala is running fast in a zigzag way while the truck passes by.");
             Console.WriteLine(Sound);
-            Console.WriteLine("What a fast creature!\n");
+            Console.WriteLine("What a fast and skillful creature!\n");
         }
 
 
