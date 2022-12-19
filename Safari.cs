@@ -1,4 +1,5 @@
-﻿using System;
+﻿using Safari;
+using System;
 using System.Collections.Generic;
 using System.Text;
 
@@ -17,6 +18,9 @@ namespace Safari_Game
         {
             _animals.Add(new Lion("Pollux", "roaaaaaaaarrrrrrrrrrrr!", 16, 270, Lion.LionHairChoices.White));
             _animals.Add(new Lion("Charlot", "grrrrrrrrrr!", 14, 316, Lion.LionHairChoices.Golden));
+            _animals.Add(new Baboon("Huey", "Woop Woop!", 14, 316, 20));
+            _animals.Add(new Baboon("Dewey", "AAAHHHAHAHAHAHA!", 16, 250, 4));
+            _animals.Add(new Baboon("Louie", "Where is my uncle?!?", 15, 115, 25));
         }
 
         /// <summary>
